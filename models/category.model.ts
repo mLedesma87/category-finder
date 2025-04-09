@@ -4,7 +4,7 @@ class CategoryClass {
     name: string;
     subcategories: Category[];
 
-    constructor({name, subcategories} : {name: string, subcategories: Category[]}) {
+    constructor({name, subcategories} : Category) {
         this.name = name;
         this.subcategories = subcategories;
     }
