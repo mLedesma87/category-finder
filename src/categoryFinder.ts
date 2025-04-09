@@ -1,5 +1,5 @@
-import { Category } from "./types/category.type";
-import CategoryClass from "./models/category.model";
+import { Category } from "../types/category.type";
+import CategoryClass from "../models/category.model";
 
 /**
  * 

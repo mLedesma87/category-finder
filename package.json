@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "main": "categoryFinder.js",
+  "main": "src/categoryFinder.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint . --ext .ts"
